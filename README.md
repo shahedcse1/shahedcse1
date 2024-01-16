@@ -16,10 +16,10 @@ Hi there, good people! I am a Full stack Software Developer . I love to code and
  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ## 💡 Skills
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 NextJS, Reactjs, TailwindCSS, NodeJS, ExpressJS, Python <br />
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, TimescaleDB, MongoDB<br />
-&nbsp;&nbsp;&nbsp; <b><i>DevOps Technology </i></b>📃 Docker, Kubernetes, Jenkins, AWS, Robot Framework<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP,Python<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 HTML, CSS, TailwindCSS,Jquery,JSON<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, MongoDB<br />
+&nbsp;&nbsp;&nbsp; <b><i>DevOps Technology </i></b>📃  Docker, Azure DevOps<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
 
 
@@ -30,9 +30,7 @@ Hi there, good people! I am a Full stack Software Developer . I love to code and
 
 ![tasmiarahmantanjin' github stats](https://github-readme-stats.vercel.app/api?username=shahedcse1&show_icons=true&hide_border=true)
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shahedcse1.shahedcse1)
 
 ## 🔍 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Colaboration. Feel free to [contact me](https://www.linkedin.com/in/solaiman-sikder-166a11157/) through Linkedin to discuss!
